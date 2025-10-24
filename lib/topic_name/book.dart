@@ -21,7 +21,7 @@ class _BookPageFlipDemoState extends State<BookPageFlipDemo> {
         backgroundColor: Colors.grey.shade300,
         lastPage: const Center(
           child: Text(
-            "The End 👋",
+            "The End ",
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
         ),

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 class OtpBoxWidget extends StatelessWidget {
   const OtpBoxWidget({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Row(

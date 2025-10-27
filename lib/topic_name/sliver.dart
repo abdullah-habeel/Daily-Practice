@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
-import 'package:practice/widgets/images.dart';
 
 class SliverPrac extends StatelessWidget {
   const SliverPrac({super.key});
